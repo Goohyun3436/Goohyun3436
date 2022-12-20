@@ -26,12 +26,6 @@
 <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
 
 <br />
-
-additionally studying...
-
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-
-<br />
 <br />
 
 ### 🛠 Tools 🛠
