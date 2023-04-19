@@ -34,7 +34,7 @@
 #### ✏ learning...
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FastApi-white?style=for-the-badge&logo=FastApi&logoColor=#009688%22"/></a>
+<img src="https://img.shields.io/badge/FastApi-white?style=flat-square&logo=FastApi&logoColor=#009688"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 <br />
