@@ -13,19 +13,22 @@
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/></a>
 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FastApi-white?style=flat-square&logo=FastApi&logoColor=#009688"/></a>
+
 <br />
 
 #### ✏ learning...
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FastApi-white?style=flat-square&logo=FastApi&logoColor=#009688"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=Swift&logoColor=F05138"/></a>
 
 <br />
 <br />
 
 ### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=#E34F26"/></a>
+<img src="https://img.shields.io/badge/Xcode-white?style=flat-square&logo=Xcode&logoColor=147EFB"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=#E34F26"/></a>
 
 <br />
