@@ -33,7 +33,7 @@
 
 <br />
 
-#### ✏ learning...
+**✏ learning...**
 
 <img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=Apple&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=Swift&logoColor=F05138"/></a>
