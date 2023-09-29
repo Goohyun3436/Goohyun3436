@@ -6,6 +6,9 @@
 
 ### 🌞 Platforms & Languages 🌞
 
+**FrontEnd**
+<br />
+
 <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
@@ -13,9 +16,20 @@
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/></a>
 
+**BackEnd**
+<br />
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FastApi-white?style=flat-square&logo=FastApi&logoColor=#009688"/></a>
+<img src="https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=FastApi&logoColor=009688"/></a>
+
+**DB**
+<br />
+
+<img src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=47A248"/></a>
+<img src="https://img.shields.io/badge/InfluxDB-white?style=flat-square&logo=influxdb&logoColor=22ADF6"/></a>
+
 
 <br />
 
