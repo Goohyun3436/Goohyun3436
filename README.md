@@ -41,6 +41,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=#E34F26"/></a>
@@ -49,10 +51,14 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ### 🗄 SNS & Portfolio 🗄
 [📒블로그](https://velog.io/@3436rngus)
 
+<br />
+<br />
 <br />
 <br />
 
