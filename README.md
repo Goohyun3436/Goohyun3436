@@ -35,9 +35,8 @@
 
 **✏ learning...**
 
-<img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=Apple&logoColor=000000"/></a>
-<img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=Swift&logoColor=F05138"/></a>
-<img src="https://img.shields.io/badge/SwiftUI-white?style=flat-square&logo=Swift&logoColor=1288F5"/></a>
+<img src="https://img.shields.io/badge/webgl-990000?style=flat-square&logo=webgl&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=ffffff" />
 
 <br />
 <br />
@@ -46,7 +45,6 @@
 
 ### 🛠 Tools 🛠
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=#E34F26"/></a>
-<img src="https://img.shields.io/badge/Xcode-white?style=flat-square&logo=Xcode&logoColor=147EFB"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=#E34F26"/></a>
 
 <br />
