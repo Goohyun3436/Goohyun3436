@@ -35,8 +35,8 @@
 
 **✏ learning...**
 
-<img src="https://img.shields.io/badge/webgl-990000?style=flat-square&logo=webgl&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff" />
 
 <br />
 <br />
