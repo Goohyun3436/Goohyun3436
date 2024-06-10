@@ -4,18 +4,18 @@
 <br />
 
 <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=#E34F26"/></a>
-<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=61DAFB"/></a>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=EFD81D"/></a>
+<img src="https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=3178C6"/></a>
+<img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=61DAFB"/></a>
+<img src="https://img.shields.io/badge/Zustand-white?style=flat-square&logo=Javascript&logoColor=7A5621"/></a>
 
 **BackEnd**
 <br />
 
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=2496ED"/></a>
+<img src="https://img.shields.io/badge/Nginx-white?style=flat-square&logo=Nginx&logoColor=009639"/></a>
+<img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=3F76A5"/></a>
 <img src="https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=FastApi&logoColor=009688"/></a>
 
 **DB**
