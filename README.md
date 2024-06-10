@@ -1,10 +1,4 @@
-<div align="center">
-
-<div align="center">
-
-## 💻 Tech Stack
-
-### 🌞 Platforms & Languages 🌞
+## 💡 Tech Stack
 
 **FrontEnd**
 <br />
@@ -30,45 +24,17 @@
 <img src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=47A248"/></a>
 <img src="https://img.shields.io/badge/InfluxDB-white?style=flat-square&logo=influxdb&logoColor=22ADF6"/></a>
 
-
 <br />
 
-**✏ learning...**
-
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff" />
-
-<br />
-<br />
-<br />
+**learning...**
 <br />
 
-### 🛠 Tools 🛠
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff"/></a>
+
+<br />
+<br />
+
+## 💡 Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=#E34F26"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=#E34F26"/></a>
-
-<br />
-<br />
-<br />
-<br />
-
-### 🗄 SNS & Portfolio 🗄
-[📒블로그](https://velog.io/@3436rngus)
-
-<br />
-<br />
-<br />
-<br />
-
-### 🌳 Github State 🌳
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goohyun3436&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goohyun3436&show_icons=true&theme=onedark)
-
-</div>
-
-
- 
-
-<br />
