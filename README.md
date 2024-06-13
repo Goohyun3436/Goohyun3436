@@ -13,7 +13,6 @@
 **BackEnd**
 <br />
 
-<img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=2496ED"/></a>
 <img src="https://img.shields.io/badge/Nginx-white?style=flat-square&logo=Nginx&logoColor=009639"/></a>
 <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=3F76A5"/></a>
 <img src="https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=FastApi&logoColor=009688"/></a>
@@ -24,7 +23,11 @@
 <img src="https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=47A248"/></a>
 <img src="https://img.shields.io/badge/InfluxDB-white?style=flat-square&logo=influxdb&logoColor=22ADF6"/></a>
 
+**ETC**
 <br />
+
+<img src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=FCC624"/></a>
+<img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=2496ED"/></a>
 
 **learning...**
 <br />
