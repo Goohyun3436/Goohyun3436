@@ -29,11 +29,18 @@
 <img src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=FCC624"/></a>
 <img src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=2496ED"/></a>
 
+<br />
+
 **learning...**
 <br />
 
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/WebGL-white?style=flat-square&logo=webgl&logoColor=990000"/></a>
+<img src="https://img.shields.io/badge/three.js-white?style=flat-square&logo=threedotjs&logoColor=000000"/></a>
+
+<img src="https://img.shields.io/badge/ iOS-white?style=flat-square&logo=&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=F05138"/></a>
+<img src="https://img.shields.io/badge/SwiftUI-white?style=flat-square&logo=swift&logoColor=3F8FFF"/></a>
+<img src="https://img.shields.io/badge/Xcode-white?style=flat-square&logo=xcode&logoColor=147EFB"/></a>
 
 <br />
 <br />
