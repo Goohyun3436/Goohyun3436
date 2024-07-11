@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/WebGL-white?style=flat-square&logo=webgl&logoColor=990000"/></a>
 <img src="https://img.shields.io/badge/three.js-white?style=flat-square&logo=threedotjs&logoColor=000000"/></a>
 
-<img src="https://img.shields.io/badge/ iOS-white?style=flat-square&logo=&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/iOS-white?style=flat-square&logo=apple&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Swift-white?style=flat-square&logo=swift&logoColor=F05138"/></a>
 <img src="https://img.shields.io/badge/SwiftUI-white?style=flat-square&logo=swift&logoColor=3F8FFF"/></a>
 <img src="https://img.shields.io/badge/Xcode-white?style=flat-square&logo=xcode&logoColor=147EFB"/></a>
