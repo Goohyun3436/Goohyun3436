@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Nginx-white?style=flat-square&logo=Nginx&logoColor=009639"/></a>
 <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=3F76A5"/></a>
 <img src="https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=FastApi&logoColor=009688"/></a>
+<img src="https://img.shields.io/badge/Go-white?style=flat-square&logo=Go&logoColor=00ADD8"/></a>
 
 **DB**
 <br />
